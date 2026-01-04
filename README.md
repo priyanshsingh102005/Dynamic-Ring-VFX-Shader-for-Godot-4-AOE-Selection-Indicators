@@ -15,7 +15,7 @@ This shader is lightweight, highly customizable, and suitable for real-time game
 
 ## 🎮 Demo
 <a href="https://godotshaders.com/shader/3d-selection-ring-or-aoe/">
-  <img src="media/SLASH.gif" width="600" alt="Dynamic Ring VFX Shader Demo">
+  <img src="media/Ring.gif" width="600" alt="Dynamic Ring VFX Shader Demo">
 </a>
 
 ---
